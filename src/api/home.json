@@ -1,0 +1,55 @@
+{
+    "err_code": 0,
+    "err_msg": "success",
+    "data": {
+        "swiper": [{
+            "src": "style/img/sample_01.jpg"
+        }, {
+            "src": "style/img/sample_02.jpg"
+        }, {
+            "src": "style/img/sample_03.jpg"
+        }],
+        "shopName": "小小微店",
+        "shopItems": [{
+            "itemName": "苹果",
+            "itemImg": "style/img/avatar/avatar01.jpg",
+            "itemPrice": "18.88元/斤"
+        }, {
+            "itemName": "香蕉",
+            "itemImg": "style/img/avatar/avatar02.jpg",
+            "itemPrice": "16.68元/斤"
+        }, {
+            "itemName": "梨",
+            "itemImg": "style/img/avatar/avatar03.jpg",
+            "itemPrice": "98.86元/斤"
+        }, {
+            "itemName": "西瓜",
+            "itemImg": "style/img/avatar/avatar04.jpg",
+            "itemPrice": "86.68元/斤"
+        }, {
+            "itemName": "哈密瓜",
+            "itemImg": "style/img/avatar/avatar05.jpg",
+            "itemPrice": "66.66元/斤"
+        }, {
+            "itemName": "椰子",
+            "itemImg": "style/img/avatar/avatar06.jpg",
+            "itemPrice": "96.00元/斤"
+        }, {
+            "itemName": "脐橙",
+            "itemImg": "style/img/avatar/avatar07.jpg",
+            "itemPrice": "88.00元/斤"
+        }, {
+            "itemName": "葡萄",
+            "itemImg": "style/img/avatar/avatar08.jpg",
+            "itemPrice": "18.00元/斤"
+        }, {
+            "itemName": "芒果",
+            "itemImg": "style/img/avatar/avatar09.jpg",
+            "itemPrice": "16.00元/斤"
+        }, {
+            "itemName": "草莓",
+            "itemImg": "style/img/avatar/avatar10.jpg",
+            "itemPrice": "18.80元/斤"
+        }]
+    }
+}
